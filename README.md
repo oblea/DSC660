@@ -6,11 +6,11 @@ The main purpose of this project was to make myself more familiar with the proce
 
 This repository contains three Jupyter Notebooks that document my work:
 
-Part 1 - [Extracting Spotify Audio Features](https://github.com/simon-th/spotify-data-project/blob/master/Extracting%20Spotify%20Audio%20Features.ipynb)
+Part 1 - Extracting Audio Features
 
-Parts 2 and 3 - [Exploring Playlist Data and Learning Models](https://github.com/simon-th/spotify-data-project/blob/master/Exploring%20Playlist%20Data%20and%20Learning%20Models.ipynb)
+Parts 2 and 3 - Exploring Playlist
 
-Part 4 - [Predictions on Separate Dataset](https://github.com/simon-th/spotify-data-project/blob/master/Predictions%20on%20Separate%20Dataset.ipynb)
+Part 4 - Predictions on Separate Dataset
 
 
 The playlist data that I used is in a separate directory in the repository, but it needs to be in the same directory as the notebooks in order for the code to work.
